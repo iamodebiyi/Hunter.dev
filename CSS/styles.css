@@ -1,6 +1,6 @@
 body{
-    background-color: #151965;
     margin: 0;
+    text-align: center;
 }
 
 h1
@@ -10,7 +10,7 @@ h1
 
 p
 {
-    margin-top: 0;
+    margin-top: 0; 
 }
 
 .top-container
