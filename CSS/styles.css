@@ -39,3 +39,8 @@ p
 {
     text-decoration: underline;
 }
+
+.bottom-cloud
+{
+    position: absolute;
+}
