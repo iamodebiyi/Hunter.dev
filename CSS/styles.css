@@ -18,6 +18,7 @@ p
 .top-container
 {
     background-color: #8ad7c1;
+    position: relative;
     margin: 0px;
 }
 
@@ -42,5 +43,5 @@ p
 
 .bottom-cloud
 {
-    position: absolute;  
+    position: absolute;
 }
