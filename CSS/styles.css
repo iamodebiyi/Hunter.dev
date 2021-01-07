@@ -19,6 +19,7 @@ p
 {
     background-color: #8ad7c1;
     position: relative;
+    padding-top: 100px;
     margin: 0px;
 }
 
@@ -40,6 +41,12 @@ p
 {
     text-decoration: underline;
 }
+
+.top-cloud
+{
+    position: absolute;
+}
+
 
 .bottom-cloud
 {
