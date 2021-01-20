@@ -1,7 +1,7 @@
 body{
     margin: 0;
     text-align: center;
-    font-family: verdana, sans-serif;
+    font-family: 'Merriweather', sans-serif;
 }
 
 h1
@@ -17,7 +17,7 @@ p
 }
 
 .top-container
-{
+{ 
     background-color: #8ad7c1;
     position: relative;
     padding-top: 100px;
