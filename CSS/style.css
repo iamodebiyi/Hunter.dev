@@ -29,7 +29,7 @@ h3{
 }
 
 .middle-container{
-    background-color: red;
+    background: linear-gradient(#0e153a, #3d5af1);
     height: 100%;
     width: 100%;
 }
