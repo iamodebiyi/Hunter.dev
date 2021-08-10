@@ -11,15 +11,21 @@ h1{
 }
 
 p{
+    margin: 0;
     color: white;
 }
 
 h2{
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Sanchez', serif;
 }
 
 h3{
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Proza Libre', sans-serif;
+}
+
+.stars{
+    height: auto;
+    width: auto;
 }
 
 .top-container{
@@ -36,8 +42,8 @@ h3{
 
 .bottom-container{
     background-color: blue;
-    height: 200px;
-    width: 200px;
+    height: 100%;
+    width: 100%;
 }
 
 .pro{
