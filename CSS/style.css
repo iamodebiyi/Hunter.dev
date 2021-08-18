@@ -2,6 +2,7 @@ body{
     margin: 0;
     text-align: center;
     font-family: 'Merriweather', serif;
+    background-color: #0e153a;
 }
 
 h1{
@@ -29,8 +30,20 @@ h3{
     text-align: left;
 }
 
+hr{
+    border: 5px solid #22d1ee;
+    border-radius: 50%;
+    border-bottom: none;
+    margin: 50px auto;
+    width: 70%;
+}
+
+.profile{
+    height: 540px;
+}
+
 .skill-img{
-    width: 25%;
+    width: 25%; 
     float: left;
     margin-right: 30px;
 }
@@ -50,16 +63,11 @@ h3{
 }
 
 .skill-p{
-    font-size: 1.5rem;
+    font-size: 1.5rem;  
     margin: 0;
     color: #3d5af1;
     text-align: left;
     line-height: 2;
-}
-
-.stars{
-    height: auto;
-    width: auto;
 }
 
 .top-container{
@@ -80,10 +88,25 @@ h3{
     width: 100%;
 }
 
+.stars{
+    height: auto;
+    width: auto;
+}
+
 .skill-row{
     margin: 100px auto 100px auto;
     text-align: left;
     width: 50%;
+}
+
+.intro{
+    margin: 0 auto 20px auto;
+    width: 30%;
+    line-height: 2;
+}
+
+.avi{
+    margin-top: 20px;
 }
 
 .pro{
